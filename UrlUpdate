@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.5",
+  "Version": "1.1.6",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Diegoprofeta/CONNECTA4G1/main/UrlUpdate",
   "Sms": "BOTAR LINK DO SMS AQUI",
@@ -82,9 +82,9 @@
     {
       "Name": "💙TIM [SSL 2]",
       "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "static.r4you.co",
-      "TlsIP": "104.26.5.175",
+      "Payload": "GET wss://m.timbancavirtual.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "m.timbancavirtual.com.br",
+      "TlsIP": "104.16.133.83",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
