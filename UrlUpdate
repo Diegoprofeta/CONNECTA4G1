@@ -1,8 +1,7 @@
-
 {
   "Version": "1.1.2",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "",
+  "UrlUpdate": "https://raw.githubusercontent.com/Diegoprofeta/CONNECTA4G1/main/UrlUpdate",
   "Sms": "BOTAR LINK DO SMS AQUI",
   "EmailFeedback": "apolossh@gmail.com",
   "UrlContato": "https://t.me/apolo_vx",
